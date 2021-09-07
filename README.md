@@ -1,3 +1,3 @@
-# Snake-Fruit-Game
+# Snake-Game
 
 Live Demo: https://mthakur7.github.io/Snake-Fruit-Game/
