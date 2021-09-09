@@ -13,4 +13,4 @@ Live Demo: https://mthakur7.github.io/Snake-Fruit-Game/
 * Snake increases in length for each object eaten
 * Snake is more than 1 px and follows the trail as it moves
 * Snake dies on contact with walls or itself
-* Scoreboard, round indicator, game restarts, basic styling
+
